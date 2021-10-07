@@ -66,6 +66,7 @@ h2{
 
 .dash{
     font-size: 1.2rem;
+    font-weight: 600;
 }
 
 h3{
@@ -74,7 +75,12 @@ h3{
     text-align: center;
 }
 
-h4{
+dt{
     font-size: 2rem; 
     font-family: 'Courier Prime', monospace;
+    font-weight: 600;
+}
+
+dd{
+    margin-inline-start: 0px;
 }
